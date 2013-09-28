@@ -10,6 +10,9 @@ This file is used to list changes made in each version of the fuse cookbook.
 0.1.1
 - [Rilindo Foster] - Added CentOS/RHEL and Ubuntu/Debian support
 
+0.1.2
+- [Rilindo Foster] - Corrected fuse-iso for fedora.
+
 - - -
 Check the [Markdown Syntax Guide](http://daringfireball.net/projects/markdown/syntax) for help with Markdown.
 

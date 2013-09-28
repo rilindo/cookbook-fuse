@@ -23,7 +23,7 @@ default['fuse']['package_name'] = 'fuse'
 if platform?('fedora') || platform?('centos') || platform?('rhel')
   default['fuse']['clients']['sshfs'] = 'fuse-sshfs'
   default['fuse']['clients']['zip'] = 'fuse-zip'
-  default['fuse']['clients']['iso'] = 'fuse-iso'
+  default['fuse']['clients']['iso'] = 'fuseiso'
   default['fuse']['clients']['encfs'] = 'fuse-encfs'
   default['fuse']['clients']['smb'] = 'fuse-smb'
 else
